@@ -1,0 +1,14 @@
+total 52
+-rwxr-x--- 1 wlgns wlgns 185 Oct 18 22:20 a01.sh
+-rwxr-x--- 1 wlgns wlgns  95 Oct 18 22:20 a02.sh
+-rwxr-x--- 1 wlgns wlgns 119 Oct 18 22:20 a03.sh
+-rwxr-x--- 1 wlgns wlgns  76 Oct 18 22:20 a04.sh
+-rwxr-x--- 1 wlgns wlgns 180 Oct 18 22:35 a05.sh
+-rwxr-x--- 1 wlgns wlgns 126 Oct 18 22:35 a06.sh
+-rwxr-x--- 1 wlgns wlgns 122 Oct 18 22:35 a07.sh
+-rwxr-x--- 1 wlgns wlgns 317 Oct 18 22:47 a08.sh
+-rwxr-x--- 1 wlgns wlgns 116 Oct 18 22:47 a09.sh
+-rwxr-x--- 1 wlgns wlgns 134 Oct 18 22:47 a10.sh
+-rwxr-x--- 1 wlgns wlgns  69 Oct 18 22:48 a11.sh
+-rwxr-x--- 1 wlgns wlgns 144 Oct 18 22:54 a12.sh
+-rwxr-x--- 1 wlgns wlgns  67 Oct 18 22:57 a13.sh
